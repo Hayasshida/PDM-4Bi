@@ -173,7 +173,7 @@ Notificações funcionam apenas em dispositivos físicos ou em ambientes de dese
                 />
                 <br />
                 <sub>
-                    <b> Enzo Corbanezi Gasques Landim De Souza </b>
+                    <b> Enzo Corbanezi</b>
                 </sub>
             </a>
         </td>
