@@ -1,6 +1,6 @@
 # Contador de Passos com Histórico e Notificações
 
-Este projeto é um aplicativo em **React Native** usando o **Expo** que conta os passos do usuário, salva um histórico diário de contagem e permite o envio de notificações locais. O aplicativo também permite ao usuário testar notificações, configurar notificações diárias e visualizar um histórico de passos por meio de uma navegação em gaveta.
+Este projeto é um aplicativo em **React Native** usando o **Expo** que conta os passos do usuário, salva um histórico diário de contagem e permite o envio de notificações locais. O aplicativo também permite ao usuário configurar notificações diárias e visualizar um histórico de passos por meio de uma navegação em gaveta.
 
 ## Funcionalidades
 
