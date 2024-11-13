@@ -165,4 +165,16 @@ Notificações funcionam apenas em dispositivos físicos ou em ambientes de dese
                 </sub>
             </a>
         </td>
+      <td align="center">
+            <a href="https://github.com/EnCglds">
+                <img
+                    src="https://avatars.githubusercontent.com/EnCglds"
+                    width="100px;"
+                />
+                <br />
+                <sub>
+                    <b> Enzo Corbanezi Gasques Landim De Souza </b>
+                </sub>
+            </a>
+        </td>
     </tr>
