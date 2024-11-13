@@ -50,20 +50,6 @@ Este projeto é um aplicativo em **React Native** usando o **Expo** que conta os
      npx expo run:<android || ios>
      ```
 
-### Estrutura de arquivos
-
-📦PDM-4Bi
- ┣ 📂src
- ┃  ┣
- ┃  📂screens
- ┃   ┣ 📜HomeScreen.jsx           # Tela principal do contador de passos
- ┃   ┣ 📜HistoryScreen.jsx        # Tela de histórico de passos
- ┃   📂services
- ┃   ┗ 📜notificationService.js   # Lógica de envio de notificações
- ┣ 📜App.js                    # Configuração principal e navegação
- ┣ 📜README.md                 # Documentação do projeto
- ┗ 📜package.json
-
 ## Explicação do Código
 `App.js`
 O App.js configura o Drawer Navigator com duas telas:
